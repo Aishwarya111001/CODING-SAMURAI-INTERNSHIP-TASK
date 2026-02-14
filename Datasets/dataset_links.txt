@@ -1,0 +1,18 @@
+Project 1 – Retail Sales Dataset
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+
+Project 2 – Household Income Dataset
+https://catalog.data.gov/dataset/aggregate-household-income-in-the-past-12-months-in-2015-inflation-adjusted-dollars
+
+
+Project 3 & 4 – Titanic Dataset
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+
+Project 5 – Apple Stock Historical Data
+https://finance.yahoo.com/quote/AAPL/history
+
+
+Project 6 – SMS Spam (Sentiment) Dataset
+https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip
