@@ -1,1 +1,12 @@
+Project1_Sales_Analysis
+Project2_Linear_Regression
+Project3_Titanic_EDA
+Project4_Titanic_Logistic
+Project5_TimeSeries
+Project6_Sentiment
+Datasets
+  dataset_links.txt
+Videos
+  demo_video_link.txt
+README.md
 
